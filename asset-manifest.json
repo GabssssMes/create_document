@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/create_document/static/css/main.483cc09d.css",
+    "main.js": "/create_document/static/js/main.6e6a15d4.js",
+    "static/media/Anuphan-VariableFont_wght.ttf": "/create_document/static/media/Anuphan-VariableFont_wght.31150469e86a5e515055.ttf",
+    "index.html": "/create_document/index.html",
+    "main.483cc09d.css.map": "/create_document/static/css/main.483cc09d.css.map",
+    "main.6e6a15d4.js.map": "/create_document/static/js/main.6e6a15d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483cc09d.css",
+    "static/js/main.6e6a15d4.js"
+  ]
+}
