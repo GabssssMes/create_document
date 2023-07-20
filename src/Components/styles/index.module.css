@@ -1,0 +1,35 @@
+@font-face {
+  font-family: anuphan;
+  src: url("./Anuphan-VariableFont_wght.ttf");
+}
+html {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+}
+header > button {
+  background-color: green;
+  color: white;
+}
+button:hover {
+  cursor: pointer;
+}
+header {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+header > h2 {
+  width: 200px;
+}
+h4 {
+  padding: 0;
+  margin: 2px;
+  width: 200px;
+}

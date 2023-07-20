@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  gap: 25px;
+  justify-content: space-evenly;
+}
+.slides {
+  background-color: rgb(160, 225, 253);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
